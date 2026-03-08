@@ -890,6 +890,15 @@
 </details>
 
 <details>
+  <summary><b>Opencode Telegram Bot</b> <img src="https://badgen.net/github/stars/grinev/opencode-telegram-bot" height="14"/> - <i>Telegram bot client for OpenCode CLI</i></summary>
+  <blockquote>
+    Run and monitor AI coding tasks from your phone while everything runs locally on your machine.
+    <br><br>
+    <a href="https://github.com/grinev/opencode-telegram-bot">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Opencode Web</b> <img src="https://badgen.net/github/stars/kcrommett/opencode-web" height="14"/> - <i>Browser-based access</i></summary>
   <blockquote>
     Web interface for opencode - browser-based access to AI coding agent.
